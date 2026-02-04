@@ -48,9 +48,9 @@ Sou apaixonado por tecnologia, desenvolvimento web e por transformar ideias em a
 ---
 
 ### 📊 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenry12&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenry12&layout=compact&theme=dark)
 
 ---
 
