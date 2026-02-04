@@ -47,13 +47,6 @@ Sou apaixonado por tecnologia, desenvolvimento web e por transformar ideias em a
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrohenry12&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohenry12&layout=compact&theme=dark)
-
-
----
 
 ### 📫 Contato
 - 📧 Email: faquinipedro12@gmail.com
