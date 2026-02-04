@@ -8,15 +8,25 @@ Sou apaixonado por tecnologia, desenvolvimento web e por transformar ideias em a
 
 ---
 
-### 🚀 Linguagens e Tecnologias
-- **JavaScript**
-- **React**
-- **Node.js**
-- **HTML & CSS**
-- **MongoDB**
-- **SQL**
-- **PostgreSQL**
-- **Vercel**
+### 🚀 Linguagens
+- JavaScript
+- SQL
+
+### ⚙️ Frameworks & Bibliotecas
+- React
+- Node.js
+- Express
+- Prisma (ORM para PostgreSQL)
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MongoDB
+- Neon
+
+### ☁️ Deploy & Cloud
+- Vercel (deploy de aplicações React)
+- Render (deploy de APIs Node.js)
+
 
 ---
 
