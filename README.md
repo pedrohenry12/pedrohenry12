@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Pedro Henry Faquini Batista
+## 👋 Olá! Eu sou o Pedro!
 
 🎓 Tenho 18 anos  
 💻 Estudante do curso **Técnico Integrado em Informática para Internet**  
