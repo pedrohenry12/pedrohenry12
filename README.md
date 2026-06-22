@@ -11,17 +11,20 @@ Sou apaixonado por tecnologia, desenvolvimento web e por transformar ideias em a
 ### 🚀 Linguagens
 - JavaScript
 - SQL
+- Python
 
 ### ⚙️ Frameworks & Bibliotecas
 - React
 - Node.js
 - Express
 - Prisma (ORM para PostgreSQL)
+- Fastify
 
 ### 🗄️ Banco de Dados
 - PostgreSQL
 - MongoDB
 - Neon
+- MySQL
 
 ### ☁️ Deploy & Cloud
 - Vercel (deploy de aplicações React)
@@ -44,6 +47,9 @@ Sou apaixonado por tecnologia, desenvolvimento web e por transformar ideias em a
 - APIs REST  
 - Banco de Dados  
 - Boas práticas de programação
+- React Native
+- Construção de Backend
+- Tratamento de erros
 
 ---
 
